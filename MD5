@@ -1,7 +1,9 @@
-03a9c415229c098c94c53d8bc137c47c *DESCRIPTION
-de9d5107eb4cb89be98d2b145ee94d5e *NAMESPACE
+07c2259c5ca724c3b7c166a450ccd485 *DESCRIPTION
+34e48f0dfcd1f50054580820875b8737 *NAMESPACE
 6308b7b104bc88dee8d13489f5c2ddeb *R/TimeProjection-package.r
-7238db58947ca1e8ec9239af3aec0823 *R/projection.R
-cc64651edcfdbd15b4c008a958c5faa9 *README.md
+8c6713649d482cac4e879fe3a159d73c *R/calendarHeatmap.R
+61b46e772027d86a35a5962d79787032 *R/projection.R
+3a3793e5fa93fc80eb66c692c121af9a *README.md
 3e06a8e5a951a8f7afe4a46089a187fb *man/TimeProjection.Rd
-7df2b6fe9419d82d8e15e5da509ee3cf *man/projectDate.Rd
+91eb8d21de6d750ae8be6b168fb83ed2 *man/plotCalendarHeatmap.Rd
+39d01990d272ac14ec7bc7a3656d5c03 *man/projectDate.Rd
